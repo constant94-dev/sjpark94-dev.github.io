@@ -6,6 +6,5 @@ excerpt_separator: <!--more-->
 ---
 
 I hope you like it!
-
-<h3>https://github.com/sylhare/Type-on-Strap</h3>
 <!--more-->
+<h3>https://github.com/sylhare/Type-on-Strap</h3>
