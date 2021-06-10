@@ -1,19 +1,19 @@
 @font-face {
     font-family: "source-sans-pro-bold";
-    src: url("/assets/fonts/source-sans-pro-bold.ttf") format('truetype');
+    src: url("/assets/fonts/source-sans-pro-bold.ttf") format('ttf');
     }
     
 @font-face {
     font-family: "source-sans-pro-bolditalic";
-    src: url("/assets/fonts/source-sans-pro-bolditalic.ttf") format('truetype');
+    src: url("/assets/fonts/source-sans-pro-bolditalic.ttf") format('ttf');
     }
     
 @font-face {
     font-family: "source-sans-pro-italic";
-    src: url("/assets/fonts/source-sans-pro-italic.ttf") format('truetype');
+    src: url("/assets/fonts/source-sans-pro-italic.ttf") format('ttf');
     }
     
 @font-face {
     font-family: "source-sans-pro-regular";
-    src: url("/assets/fonts/source-sans-pro-regular.ttf") format('truetype');
+    src: url("/assets/fonts/source-sans-pro-regular.ttf") format('ttf');
     }
